@@ -215,7 +215,7 @@
   <hr class="border-t border-gray-300 my-8" />
 
   <section class="mb-12">
-    <h2 class="text-3xl font-bold mb-4">Who We Are</h2>
+    <h2 class="text-3xl font-bold mb-4">Who We Are (shameless plug)</h2>
     <div class="bg-white p-6 rounded-lg border border-blue-200">
       <div class="flex flex-col md:flex-row items-center md:items-start gap-6">
         <div class="w-32 h-32 bg-blue-100 rounded-full flex items-center justify-center">
