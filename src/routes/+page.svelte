@@ -170,7 +170,50 @@
 
   <hr class="border-t border-gray-300 my-8" />
 
-  <!-- Section 4: Who We Are -->
+
+
+  <!-- Section 5: FAQ -->
+  <section class="mb-12">
+    <h2 class="text-3xl font-bold mb-4">Frequently Asked Questions</h2>
+
+    <div class="space-y-8">
+      <!-- FAQ Item 1 -->
+      <div class="bg-white p-6 rounded-lg border border-gray-200">
+        <h3 class="text-xl font-bold mb-3">I received a letter and sent $92.58 — where's my refund?</h3>
+        <div class="prose max-w-none">
+          <p>Unfortunately, I can't issue a refund because I'm not affiliated with the company that sent the letter.</p>
+          <p>I purchased this domain — businesspostings.us — after the original sender let it expire, in order to warn others and help small business owners avoid getting scammed.</p>
+          <p>If you sent a payment, I recommend filing a report with:</p>
+          <ul class="list-disc pl-5 space-y-1">
+            <li><a href="https://reportfraud.ftc.gov/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline">FTC Fraud Reporting</a></li>
+            <li><a href="https://www.uspis.gov/report" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline">USPS Mail Fraud Division</a></li>
+            <li><a href="https://www.bbb.org/scamtracker/reportscam" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline">Better Business Bureau</a></li>
+          </ul>
+          <p>I know it's frustrating. I got one of these letters too, and that's why I decided to take action.</p>
+        </div>
+      </div>
+
+      <!-- FAQ Item 2 -->
+      <div class="bg-white p-6 rounded-lg border border-gray-200">
+        <h3 class="text-xl font-bold mb-3">Who are you, then?</h3>
+        <div class="prose max-w-none">
+          <p>I'm Dan Barker, a small business owner and web developer. I received one of these misleading letters myself and, after some research, found out the domain had expired — so I bought it and turned it into a public service instead of a scare tactic.</p>
+          <p>I do not sell posters. I do not accept payments. I'm just trying to make sure fewer people fall for what others did.</p>
+        </div>
+      </div>
+
+      <!-- FAQ Item 3 -->
+      <div class="bg-white p-6 rounded-lg border border-gray-200">
+        <h3 class="text-xl font-bold mb-3">Can you help me file a complaint?</h3>
+        <div class="prose max-w-none">
+          <p>Absolutely. If you want help writing a refund request, a report to the FTC, or anything else — just shoot me an email at <a href="mailto:records@businesspostings.us" class="text-blue-600 hover:underline">records@businesspostings.us</a> and I'll do what I can.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="border-t border-gray-300 my-8" />
+
   <section class="mb-12">
     <h2 class="text-3xl font-bold mb-4">Who We Are</h2>
     <div class="bg-white p-6 rounded-lg border border-blue-200">
